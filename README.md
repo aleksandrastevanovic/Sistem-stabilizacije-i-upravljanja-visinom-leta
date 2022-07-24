@@ -1,1 +1,1 @@
-# Sistem-stabilizacije-i-upravljanja-visinom-leta
+# Sistem stabilizacije i upravljanja visinom leta
